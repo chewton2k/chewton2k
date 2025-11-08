@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Charlton Shih
+## Hi there 👋 I'm [Charlton Shih](https://chewton2k.github.io/CharltonShih/)
 
 I am an undergraduate computer science student at UCLA! 
 
